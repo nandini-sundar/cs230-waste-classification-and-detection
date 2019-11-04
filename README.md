@@ -14,7 +14,7 @@ We also plotted the losses (training/validation) and metrics (accuracy, error ra
 
 For this task, we did data augmentation on [TrashNet dataset](https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip). We took 100 images from each class (glass, cardboard, plastic, paper, metal, trash), cropped it and created a collage of it on a 300x300 white canvas and also calculated bounding boxes of where the object is on the canvas and used this as the dataset to train our model.
 
-The data and scripts related to the above data augmentation process are in [this](https://github.com/nandini9cs230/cs230_waste_object_detection_data) repository
+The data and scripts related to the above data augmentation process are in [this](https://github.com/nandini-sundar/cs230_waste_object_detection_data) repository
 
 We referred to [this](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) blog post by Chengwei for doing this part.
 
