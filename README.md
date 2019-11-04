@@ -1,2 +1,2 @@
-# cs230-waste-classification
-CS230 Project - Waste Classification with Deep Learning
+# cs230-waste-classification-and-detection
+CS230 Project - Waste Classification and Detection with Deep Learning
